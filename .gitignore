@@ -137,3 +137,4 @@ dmypy.json
 .pyre/
 
 .google-cookie
+.DS_Store
