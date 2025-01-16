@@ -1,4 +1,4 @@
-discord.py==1.4.1
+discord.py==1.5.1
 requests
 fuzzywuzzy
 python-Levenshtein
@@ -7,3 +7,7 @@ polling
 pillow
 google
 pyquery
+pytz
+youtube_dl
+youtube-search
+validators
